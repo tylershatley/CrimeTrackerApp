@@ -1,0 +1,17 @@
+New CaseCase Number: 5
+Type Of Crime: INCHOATE
+Description of Crime: trespass early morning in high crime area
+Date of Crime: 08-12-2020 06:50
+Address: 349 Lake Avenue
+Assigned ID: edf66144-0dcb-40d1-b4f2-6cc1d60b1bc6
+*****Criminals*****
+First Name: Bam
+Last Name: Margera
+*****Suspects*****
+First Name: Unknown
+Last Name: Unknown
+*****Witnesses*****
+*****Victims*****
+*****Evidence*****
+Footage of Tresspass given by owner.
+Case Status: UnSolved
